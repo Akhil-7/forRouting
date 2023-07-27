@@ -1,0 +1,23 @@
+.content{
+    background-color: #000;
+    height: 60vh;
+    padding: 20px;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    width: 7em;
+    background-color: gray;
+    padding: 10px;
+    border-radius: 10px;
+    margin:  auto;
+    margin-bottom: 15px;
+}
+.btns{
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #fff;
+    border: none;
+}
